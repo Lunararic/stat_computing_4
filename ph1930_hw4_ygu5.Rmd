@@ -1,0 +1,13 @@
+---
+title: "ph1930_hw4_ygu5"
+author: "Yue Gu"
+date: "12/13/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+```
+
